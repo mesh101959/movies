@@ -1,0 +1,29 @@
+Privacy Policy for Word Recall
+
+This Privacy Policy explains how Word Recall collects, uses, and protects any information that is provided or collected when using this Android application. We are committed to ensuring that your privacy is protected and that any personal information you provide is handled securely. 
+
+Information Collection and Use:
+Word Recall does not collect any personally identifiable information or sensitive data from its users. We do not request or store any personal information such as names, addresses, contact details, or financial information.
+
+Device Information:
+Word Recall may collect certain non-personal information automatically when you use the app. This information may include device information such as device model, operating system version, and unique device identifiers. This information is collected solely for the purpose of improving the app's performance and providing a better user experience.
+
+Cookies and Analytics:
+Word Recall does not use cookies or any third-party analytics services to collect or track user behavior or usage patterns.
+
+Third-Party Services:
+Word Recall does not integrate or utilize any third-party services or APIs that may collect or process personal information.
+
+Data Security:
+We are committed to ensuring that your information is secure. While we take reasonable precautions to protect the information collected, please note that no method of transmission over the internet or electronic storage is 100% secure. Therefore, we cannot guarantee the absolute security of any information transmitted or collected through the app.
+
+Links to Other Websites:
+Word Recall may contain links to external websites or services. Please note that we have no control over the content or privacy practices of these third-party websites. Therefore, we cannot be responsible for the protection and privacy of any information you provide while visiting such sites. Exercise caution and review the privacy policy of the respective websites you visit.
+
+Changes to this Privacy Policy:
+We reserve the right to update or modify this Privacy Policy from time to time. Any changes will be effective immediately upon posting the revised policy within the app. We encourage you to review this Privacy Policy periodically for any updates.
+
+Contact Us:
+If you have any questions or concerns regarding this Privacy Policy, please contact us at ms101959.games.2023@gmail.com.
+
+By using Word Recall, you acknowledge that you have read and understood this Privacy Policy and agree to its terms and conditions.
